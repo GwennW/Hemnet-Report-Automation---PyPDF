@@ -1,2 +1,2 @@
 # Hemnet-Report-Automation---PyPDF
-Automating a reporting process with Python and PyPdf
+Automating a full reporting process from data transformation to visualisation and pagination with Python and PyPdf
